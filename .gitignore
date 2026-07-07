@@ -1,0 +1,6 @@
+.agents/
+.codex/
+.env
+.env.*
+vendor/
+node_modules/
